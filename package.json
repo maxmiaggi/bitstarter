@@ -2,9 +2,9 @@
   "name": "node-js-sample",
   "version": "0.2.0",
   "description": "A sample Node.js app using Express 4",
-  "main": "index.js",
+  "main": "web.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node web.js"
   },
   "dependencies": {
     "express": "^4.13.3"
@@ -23,7 +23,8 @@
   ],
   "author": "Mark Pundsack",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+    "Mayank Prasad <mayank.vitu@gmail.com> (http://maxEmbedded.com)"
   ],
   "license": "MIT"
 }
